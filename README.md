@@ -1,2 +1,2 @@
 # mortGAUGE
-A mortgage calculator CLI tool.
+A mortgage calculating CLI tool.
